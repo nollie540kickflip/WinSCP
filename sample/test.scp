@@ -1,0 +1,6 @@
+option batch on
+open [ユーザ名]@[IP or ホスト名]
+cd /home/hogehoge
+put "%1%"
+close
+exit
